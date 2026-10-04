@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# 测试与覆盖率
+.pytest_cache/
+.pytest_tmp/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# 本地产物
+*.log
+.env
